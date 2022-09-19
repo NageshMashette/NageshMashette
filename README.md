@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nagesh Mashette</h1>
 <h3 align="center">A passionate Data Scientist , AIML engineer, Data Analytics.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshmashette&label=Profile%20views&color=0e75b6&style=flat" alt="nageshmashette" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nageshmashette" alt="nageshmashette" /></a> </p>
 
-- 🔭 I’m currently working on **Capgemini Sogeti**
+- 🔭 I’m currently working in **Capgemini Sogeti**
 
 - 🌱 I’m currently learning **Data Engineering, Cloud Computing.**
+
+- 👨 withoud data you are just another person with opinion.
 
 - 👨‍💻 All of my projects are available at [https://github.com/NageshMashette/NageshMashette](https://github.com/NageshMashette/NageshMashette)
 [![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
