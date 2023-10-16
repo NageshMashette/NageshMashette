@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Capgemini Sogeti**
 
-- 🌱 I’m currently learning **Generative AI, LLMs.**
+- 🌱 I’m currently experimenting **Generative AI, LLMs.**
 
 - 👨 withoud data you are just another person with opinion.
 
