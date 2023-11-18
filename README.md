@@ -13,7 +13,6 @@
 - 👨 withoud data you are just another person with opinion.
 
 - 👨‍💻 All of my projects are available at [https://github.com/NageshMashette/NageshMashette](https://github.com/NageshMashette/NageshMashette)
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif">
 
