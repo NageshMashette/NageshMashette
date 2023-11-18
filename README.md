@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NageshMashette/NageshMashette](https://github.com/NageshMashette/NageshMashette)
 
+- 📝 My Linkedin Profile -- https://www.linkedin.com/in/nagesh-mashette-b3a9b4131/
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif">
 
 
