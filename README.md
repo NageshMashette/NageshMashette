@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nageshmashette32](https://medium.com/@nageshmashette32)
 
-- 💬 Ask me about **Data Science, Computer Vision.**
+- 💬 Ask me about **Data Science, Generative AI, AGI, LLMs.**
 
 - 📫 How to reach me **nageshmashette32@gmail.com**
 
