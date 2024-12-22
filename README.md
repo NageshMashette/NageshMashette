@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nageshmashette" alt="nageshmashette" /></a> </p>
 
-- 🔭 I’m currently working in **Capgemini Sogeti**
+- 🔭 I’m currently working in **PWC (US)**
 
-- 🌱 I’m currently experimenting **Generative AI, LLMs.**
+- 🌱 I’m currently experimenting **Generative AI, LLMs, Agents.**
 
 - 👨 withoud data you are just another person with opinion.
 
